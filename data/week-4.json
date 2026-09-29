@@ -1,0 +1,1137 @@
+{
+ "week": 4,
+ "final": false,
+ "games": [
+  {
+   "winner": "UNDECIDED",
+   "home": {
+    "teamId": 3,
+    "points": 0.0,
+    "players": [
+     {
+      "name": "Jahmyr Gibbs",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "A.J. Brown",
+      "pos": "WR",
+      "slot": "IR",
+      "pts": 0
+     },
+     {
+      "name": "Nico Collins",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Lamar Jackson",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 0
+     },
+     {
+      "name": "Bucky Irving",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Courtland Sutton",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Kyle Pitts Sr.",
+      "pos": "TE",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Rico Dowdle",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Michael Wilson",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "RJ Harvey",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Texans D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0
+     },
+     {
+      "name": "Ka'imi Fairbairn",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0
+     },
+     {
+      "name": "Matthew Stafford",
+      "pos": "QB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Deebo Samuel Sr.",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Dalton Schultz",
+      "pos": "TE",
+      "slot": "TE",
+      "pts": 0
+     },
+     {
+      "name": "Kaelon Black",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Tre Tucker",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Rashod Bateman",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     }
+    ]
+   },
+   "away": {
+    "teamId": 10,
+    "points": 0.0,
+    "players": [
+     {
+      "name": "Bijan Robinson",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Omarion Hampton",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Tee Higgins",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Jaylen Waddle",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Dallas Goedert",
+      "pos": "TE",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Jadarian Price",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "J.K. Dobbins",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Dalton Kincaid",
+      "pos": "TE",
+      "slot": "TE",
+      "pts": 0
+     },
+     {
+      "name": "Brock Purdy",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 0
+     },
+     {
+      "name": "Eddy Pineiro",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0
+     },
+     {
+      "name": "49ers D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0
+     },
+     {
+      "name": "Bo Nix",
+      "pos": "QB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Tyler Loop",
+      "pos": "K",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Buccaneers D/ST",
+      "pos": "D/ST",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Jalen Coker",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Kalif Raymond",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     }
+    ]
+   }
+  },
+  {
+   "winner": "UNDECIDED",
+   "home": {
+    "teamId": 5,
+    "points": 0.0,
+    "players": [
+     {
+      "name": "Brock Bowers",
+      "pos": "TE",
+      "slot": "TE",
+      "pts": 0
+     },
+     {
+      "name": "Derrick Henry",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Zay Flowers",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Breece Hall",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "D'Andre Swift",
+      "pos": "RB",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Justin Herbert",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 0
+     },
+     {
+      "name": "Marvin Harrison Jr.",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Luther Burden III",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "DK Metcalf",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Jonathon Brooks",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Matthew Golden",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Jordan Mason",
+      "pos": "RB",
+      "slot": "IR",
+      "pts": 0
+     },
+     {
+      "name": "Ravens D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0
+     },
+     {
+      "name": "Chris Boswell",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0
+     },
+     {
+      "name": "Baker Mayfield",
+      "pos": "QB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "T.J. Hockenson",
+      "pos": "TE",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     }
+    ]
+   },
+   "away": {
+    "teamId": 8,
+    "points": 0.0,
+    "players": [
+     {
+      "name": "Amon-Ra St. Brown",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "CeeDee Lamb",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Jeremiyah Love",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Kyren Williams",
+      "pos": "RB",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Jameson Williams",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Quinshon Judkins",
+      "pos": "RB",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Jalen Hurts",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 0
+     },
+     {
+      "name": "Harold Fannin Jr.",
+      "pos": "TE",
+      "slot": "TE",
+      "pts": 0
+     },
+     {
+      "name": "Josh Jacobs",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Kyle Monangai",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Cameron Dicker",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0
+     },
+     {
+      "name": "Eagles D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0
+     },
+     {
+      "name": "Trevor Lawrence",
+      "pos": "QB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Chuba Hubbard",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Jayden Daniels",
+      "pos": "QB",
+      "slot": "IR",
+      "pts": 0
+     },
+     {
+      "name": "Devaughn Vele",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Panthers D/ST",
+      "pos": "D/ST",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "slot": "BE",
+      "pts": 0
+     }
+    ]
+   }
+  },
+  {
+   "winner": "UNDECIDED",
+   "home": {
+    "teamId": 1,
+    "points": 0.0,
+    "players": [
+     {
+      "name": "Ja'Marr Chase",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Chase Brown",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Kenneth Walker III",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Travis Etienne Jr.",
+      "pos": "RB",
+      "slot": "IR",
+      "pts": 0
+     },
+     {
+      "name": "Cam Skattebo",
+      "pos": "RB",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Terry McLaurin",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Carnell Tate",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Joe Burrow",
+      "pos": "QB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Parker Washington",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Travis Kelce",
+      "pos": "TE",
+      "slot": "TE",
+      "pts": 0
+     },
+     {
+      "name": "Chris Godwin Jr.",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Isaiah Likely",
+      "pos": "TE",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Zach Charbonnet",
+      "pos": "RB",
+      "slot": "IR",
+      "pts": 0
+     },
+     {
+      "name": "Cam Little",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0
+     },
+     {
+      "name": "Tyler Shough",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 0
+     },
+     {
+      "name": "Emmett Johnson",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Denzel Boston",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Vikings D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0
+     }
+    ]
+   },
+   "away": {
+    "teamId": 2,
+    "points": 0.0,
+    "players": [
+     {
+      "name": "Puka Nacua",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Saquon Barkley",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Trey McBride",
+      "pos": "TE",
+      "slot": "TE",
+      "pts": 0
+     },
+     {
+      "name": "Colston Loveland",
+      "pos": "TE",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Garrett Wilson",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "DJ Moore",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Jaylen Warren",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Michael Pittman Jr.",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Dak Prescott",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 0
+     },
+     {
+      "name": "Jakobi Meyers",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Blake Corum",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Rachaad White",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Xavier Worthy",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Romeo Doubs",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Woody Marks",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Jake Bates",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0
+     },
+     {
+      "name": "Chiefs D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0
+     }
+    ]
+   }
+  },
+  {
+   "winner": "UNDECIDED",
+   "home": {
+    "teamId": 4,
+    "points": 0.0,
+    "players": [
+     {
+      "name": "Christian McCaffrey",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "James Cook III",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Josh Allen",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 0
+     },
+     {
+      "name": "Tetairoa McMillan",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Davante Adams",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Tyler Warren",
+      "pos": "TE",
+      "slot": "TE",
+      "pts": 0
+     },
+     {
+      "name": "Rome Odunze",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Brandon Aubrey",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0
+     },
+     {
+      "name": "Aaron Jones Sr.",
+      "pos": "RB",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Brian Thomas Jr.",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Makai Lemon",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Broncos D/ST",
+      "pos": "D/ST",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Jake Ferguson",
+      "pos": "TE",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Jonah Coleman",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Caleb Williams",
+      "pos": "QB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Isiah Pacheco",
+      "pos": "RB",
+      "slot": "IR",
+      "pts": 0
+     },
+     {
+      "name": "Tank Dell",
+      "pos": "WR",
+      "slot": "IR",
+      "pts": 0
+     },
+     {
+      "name": "Packers D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0
+     }
+    ]
+   },
+   "away": {
+    "teamId": 9,
+    "points": 0.0,
+    "players": [
+     {
+      "name": "Jaxon Smith-Njigba",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Ashton Jeanty",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "George Pickens",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "DeVonta Smith",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "David Montgomery",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Bhayshul Tuten",
+      "pos": "RB",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Tucker Kraft",
+      "pos": "TE",
+      "slot": "TE",
+      "pts": 0
+     },
+     {
+      "name": "Stefon Diggs",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Mark Andrews",
+      "pos": "TE",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Steelers D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0
+     },
+     {
+      "name": "Trey Smack",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0
+     },
+     {
+      "name": "Mike Evans",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Jaxson Dart",
+      "pos": "QB",
+      "slot": "IR",
+      "pts": 0
+     },
+     {
+      "name": "Bengals D/ST",
+      "pos": "D/ST",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "C.J. Stroud",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 0
+     },
+     {
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "slot": "IR",
+      "pts": 0
+     },
+     {
+      "name": "Rashid Shaheed",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Harrison Butker",
+      "pos": "K",
+      "slot": "BE",
+      "pts": 0
+     }
+    ]
+   }
+  },
+  {
+   "winner": "UNDECIDED",
+   "home": {
+    "teamId": 6,
+    "points": 0.0,
+    "players": [
+     {
+      "name": "Jonathan Taylor",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Drake London",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Malik Nabers",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Rashee Rice",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Ladd McConkey",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "TreVeyon Henderson",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Tony Pollard",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "George Kittle",
+      "pos": "TE",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Rams D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0
+     },
+     {
+      "name": "Patrick Mahomes",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 0
+     },
+     {
+      "name": "Josh Downs",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "KC Concepcion",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Jared Goff",
+      "pos": "QB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Juwan Johnson",
+      "pos": "TE",
+      "slot": "TE",
+      "pts": 0
+     },
+     {
+      "name": "Dontayvion Wicks",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Spencer Shrader",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0
+     }
+    ]
+   },
+   "away": {
+    "teamId": 7,
+    "points": 0.0,
+    "players": [
+     {
+      "name": "De'Von Achane",
+      "pos": "RB",
+      "slot": "IR",
+      "pts": 0
+     },
+     {
+      "name": "Justin Jefferson",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Javonte Williams",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Chris Olave",
+      "pos": "WR",
+      "slot": "WR",
+      "pts": 0
+     },
+     {
+      "name": "Emeka Egbuka",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Rhamondre Stevenson",
+      "pos": "RB",
+      "slot": "RB",
+      "pts": 0
+     },
+     {
+      "name": "Drake Maye",
+      "pos": "QB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Christian Watson",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0
+     },
+     {
+      "name": "Sam LaPorta",
+      "pos": "TE",
+      "slot": "TE",
+      "pts": 0
+     },
+     {
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Jordan Addison",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Seahawks D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0
+     },
+     {
+      "name": "Jason Myers",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0
+     },
+     {
+      "name": "Khalil Shakir",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Hunter Henry",
+      "pos": "TE",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Tyler Allgeier",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0
+     },
+     {
+      "name": "Bryce Young",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 0
+     }
+    ]
+   }
+  }
+ ]
+}
