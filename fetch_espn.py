@@ -11,6 +11,9 @@ BASE = (f"https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/"
 POS = {1: "QB", 2: "RB", 3: "WR", 4: "TE", 5: "K", 16: "D/ST"}
 SLOT = {0: "QB", 2: "RB", 4: "WR", 6: "TE", 16: "D/ST", 17: "K",
         20: "BE", 21: "IR", 23: "FLEX"}
+# ESPN stat ids -> short names (only non-zero values are saved)
+STATS = {"passYds": "3", "passTD": "4", "int": "20", "rushYds": "24", "rushTD": "25",
+         "rec": "53", "recYds": "42", "recTD": "43", "fumLost": "72"}
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 
 
@@ -68,11 +71,20 @@ def main():
                 for e in roster:
                     p = e.get("playerPoolEntry", {})
                     pl = p.get("player", {})
+                    raw = {}
+                    for st in pl.get("stats") or []:
+                        if (st.get("scoringPeriodId") == week and st.get("statSourceId") == 0
+                                and st.get("statSplitTypeId") == 1):
+                            raw = st.get("stats") or {}
+                            break
+                    line = {k: raw[i] for k, i in STATS.items() if raw.get(i)}
                     players.append({
                         "name": pl.get("fullName"),
                         "pos": POS.get(pl.get("defaultPositionId"), str(pl.get("defaultPositionId"))),
                         "slot": SLOT.get(e.get("lineupSlotId"), str(e.get("lineupSlotId"))),
                         "pts": round(p.get("appliedStatTotal") or 0, 2),
+                        "injury": pl.get("injuryStatus"),
+                        "stats": line,
                     })
                 game[side] = {"teamId": s.get("teamId"),
                               "points": s.get("totalPoints"),
