@@ -1,107 +1,107 @@
 {
  "season": 2026,
- "currentMatchupPeriod": 4,
- "latestScoringPeriod": 4,
+ "currentMatchupPeriod": 5,
+ "latestScoringPeriod": 5,
  "teams": [
   {
    "id": 1,
    "name": "Israeli Defense Forces",
    "owner": "Luis Lara",
-   "wins": 1,
+   "wins": 2,
    "losses": 2,
    "ties": 0,
-   "pointsFor": 416.73999999999995,
-   "pointsAgainst": 475.62
+   "pointsFor": 539.0799999999999,
+   "pointsAgainst": 582.82
   },
   {
    "id": 2,
    "name": "matt's Magnificent Team",
    "owner": "matt diaz",
    "wins": 1,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pointsFor": 337.59999999999997,
-   "pointsAgainst": 388.3
+   "pointsFor": 444.79999999999995,
+   "pointsAgainst": 510.64
   },
   {
    "id": 3,
    "name": "Fernando's Fantastic Team",
    "owner": "Fernando Verdoza",
-   "wins": 1,
+   "wins": 2,
    "losses": 2,
    "ties": 0,
-   "pointsFor": 358.2,
-   "pointsAgainst": 389.48
+   "pointsFor": 506.08,
+   "pointsAgainst": 517.6
   },
   {
    "id": 4,
    "name": "Andrew's Team",
    "owner": "Andrew Guzman",
-   "wins": 1,
+   "wins": 2,
    "losses": 2,
    "ties": 0,
-   "pointsFor": 427.24,
-   "pointsAgainst": 387.32
+   "pointsFor": 582.76,
+   "pointsAgainst": 479.15999999999997
   },
   {
    "id": 5,
    "name": "Manjawn team n",
    "owner": "Manny Fregoso",
    "wins": 2,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pointsFor": 403.88,
-   "pointsAgainst": 376.08
+   "pointsFor": 524.94,
+   "pointsAgainst": 576.36
   },
   {
    "id": 6,
-   "name": "NABERS IN PARIS",
+   "name": "DOING NABERS WIFE",
    "owner": "Erick Garcia",
    "wins": 2,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pointsFor": 363.06,
-   "pointsAgainst": 336.76
+   "pointsFor": 492.15999999999997,
+   "pointsAgainst": 488.02
   },
   {
    "id": 7,
    "name": "I miss de'von achane ",
    "owner": "Tyler Falwell",
-   "wins": 1,
+   "wins": 2,
    "losses": 2,
    "ties": 0,
-   "pointsFor": 391.38,
-   "pointsAgainst": 393.58
+   "pointsFor": 542.64,
+   "pointsAgainst": 522.68
   },
   {
    "id": 8,
    "name": "U SEE MY TDS ",
    "owner": "Melvin Esteva",
-   "wins": 3,
+   "wins": 4,
    "losses": 0,
    "ties": 0,
-   "pointsFor": 392.1,
-   "pointsAgainst": 343.78000000000003
+   "pointsFor": 592.38,
+   "pointsAgainst": 464.84000000000003
   },
   {
    "id": 9,
    "name": "My Njigba",
    "owner": "christian guzman",
    "wins": 1,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pointsFor": 416.03999999999996,
-   "pointsAgainst": 418.76
+   "pointsFor": 507.88,
+   "pointsAgainst": 574.28
   },
   {
    "id": 10,
    "name": "John's Scary Team",
    "owner": "John Saens",
    "wins": 2,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pointsFor": 365.06,
-   "pointsAgainst": 361.62
+   "pointsFor": 493.18,
+   "pointsAgainst": 509.5
   }
  ]
 }
