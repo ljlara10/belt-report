@@ -279,14 +279,6 @@
       "stats": {}
      },
      {
-      "name": "Tre Tucker",
-      "pos": "WR",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "Rashod Bateman",
       "pos": "WR",
       "slot": "BE",
@@ -298,6 +290,14 @@
       "name": "Ollie Gordon II",
       "pos": "RB",
       "slot": "FLEX",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -346,14 +346,6 @@
      {
       "name": "Dallas Goedert",
       "pos": "TE",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Jadarian Price",
-      "pos": "RB",
       "slot": "BE",
       "pts": 0,
       "injury": null,
@@ -416,14 +408,6 @@
       "stats": {}
      },
      {
-      "name": "Buccaneers D/ST",
-      "pos": "D/ST",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "Jalen Coker",
       "pos": "WR",
       "slot": "BE",
@@ -443,6 +427,22 @@
       "name": "Malik Washington",
       "pos": "WR",
       "slot": "FLEX",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Browns D/ST",
+      "pos": "D/ST",
+      "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Brian Robinson Jr.",
+      "pos": "RB",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -743,17 +743,17 @@
       "stats": {}
      },
      {
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "slot": "BE",
+      "name": "Will Reichard",
+      "pos": "K",
+      "slot": "K",
       "pts": 0,
       "injury": null,
       "stats": {}
      },
      {
-      "name": "Will Reichard",
-      "pos": "K",
-      "slot": "K",
+      "name": "Will Shipley",
+      "pos": "RB",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -791,7 +791,7 @@
      {
       "name": "Tetairoa McMillan",
       "pos": "WR",
-      "slot": "WR",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -847,7 +847,7 @@
      {
       "name": "Makai Lemon",
       "pos": "WR",
-      "slot": "BE",
+      "slot": "WR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -855,7 +855,7 @@
      {
       "name": "Broncos D/ST",
       "pos": "D/ST",
-      "slot": "BE",
+      "slot": "D/ST",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -896,14 +896,6 @@
       "name": "Tank Dell",
       "pos": "WR",
       "slot": "IR",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Bills D/ST",
-      "pos": "D/ST",
-      "slot": "D/ST",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1150,7 +1142,7 @@
      {
       "name": "Rams D/ST",
       "pos": "D/ST",
-      "slot": "D/ST",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1174,14 +1166,6 @@
      {
       "name": "Jacory Croskey-Merritt",
       "pos": "RB",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Dontayvion Wicks",
-      "pos": "WR",
       "slot": "BE",
       "pts": 0,
       "injury": null,
@@ -1220,9 +1204,17 @@
       "stats": {}
      },
      {
-      "name": "Kirk Cousins",
+      "name": "Jacoby Brissett",
       "pos": "QB",
       "slot": "QB",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Bengals D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1387,17 +1379,9 @@
     "points": 0.0,
     "players": [
      {
-      "name": "De'Von Achane",
-      "pos": "RB",
-      "slot": "IR",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "Justin Jefferson",
       "pos": "WR",
-      "slot": "IR",
+      "slot": "WR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1437,7 +1421,7 @@
      {
       "name": "Drake Maye",
       "pos": "QB",
-      "slot": "BE",
+      "slot": "QB",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1469,7 +1453,7 @@
      {
       "name": "Jordan Addison",
       "pos": "WR",
-      "slot": "WR",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1477,7 +1461,7 @@
      {
       "name": "Seahawks D/ST",
       "pos": "D/ST",
-      "slot": "D/ST",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1517,23 +1501,15 @@
      {
       "name": "Bryce Young",
       "pos": "QB",
-      "slot": "QB",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Jaylen Wright",
-      "pos": "RB",
       "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
      },
      {
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "slot": "BE",
+      "name": "Cowboys D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
       "pts": 0,
       "injury": null,
       "stats": {}
