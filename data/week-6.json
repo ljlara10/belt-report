@@ -1,12 +1,12 @@
 {
  "week": 6,
- "final": false,
+ "final": true,
  "games": [
   {
-   "winner": "UNDECIDED",
+   "winner": "AWAY",
    "home": {
     "teamId": 3,
-    "points": 0.0,
+    "points": 81.88,
     "players": [
      {
       "name": "Jahmyr Gibbs",
@@ -20,17 +20,24 @@
       "name": "A.J. Brown",
       "pos": "WR",
       "slot": "IR",
-      "pts": 0,
+      "pts": 5.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 3.0,
+       "recYds": 27.0
+      }
      },
      {
       "name": "Nico Collins",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 10.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 5.0,
+       "rec": 3.0,
+       "recYds": 74.0
+      }
      },
      {
       "name": "Lamar Jackson",
@@ -44,47 +51,66 @@
       "name": "Bucky Irving",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 6.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 46.0,
+       "rec": 2.0,
+       "recYds": 3.0
+      }
      },
      {
       "name": "Courtland Sutton",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 3.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 2.0,
+       "recYds": 19.0
+      }
      },
      {
       "name": "Kyle Pitts Sr.",
       "pos": "TE",
       "slot": "FLEX",
-      "pts": 0,
+      "pts": 23.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 5.0,
+       "recYds": 60.0,
+       "recTD": 2.0
+      }
      },
      {
       "name": "Michael Wilson",
       "pos": "WR",
       "slot": "FLEX",
-      "pts": 0,
+      "pts": 7.2,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 32.0
+      }
      },
      {
       "name": "RJ Harvey",
       "pos": "RB",
       "slot": "BE",
-      "pts": 0,
+      "pts": 14.6,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 25.0,
+       "rushTD": 1.0,
+       "rec": 3.0,
+       "recYds": 31.0
+      }
      },
      {
       "name": "Texans D/ST",
       "pos": "D/ST",
       "slot": "D/ST",
-      "pts": 0,
+      "pts": -2.0,
       "injury": null,
       "stats": {}
      },
@@ -92,7 +118,7 @@
       "name": "Ka'imi Fairbairn",
       "pos": "K",
       "slot": "K",
-      "pts": 0,
+      "pts": 11.0,
       "injury": null,
       "stats": {}
      },
@@ -100,9 +126,12 @@
       "name": "Matthew Stafford",
       "pos": "QB",
       "slot": "QB",
-      "pts": 0,
+      "pts": 16.88,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 222.0,
+       "passTD": 2.0
+      }
      },
      {
       "name": "Deebo Samuel Sr.",
@@ -132,31 +161,40 @@
       "name": "Keon Coleman",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 15.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 59.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "MarShawn Lloyd",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 1.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 10.0
+      }
      },
      {
       "name": "Pat Freiermuth",
       "pos": "TE",
       "slot": "TE",
-      "pts": 0,
+      "pts": 3.1,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 2.0,
+       "recYds": 11.0
+      }
      }
     ]
    },
    "away": {
     "teamId": 1,
-    "points": 0.0,
+    "points": 140.16,
     "players": [
      {
       "name": "Ja'Marr Chase",
@@ -178,9 +216,14 @@
       "name": "Kenneth Walker III",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 27.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 128.0,
+       "rushTD": 2.0,
+       "rec": 2.0,
+       "recYds": 11.0
+      }
      },
      {
       "name": "Travis Etienne Jr.",
@@ -193,7 +236,7 @@
      {
       "name": "Cam Skattebo",
       "pos": "RB",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -201,18 +244,25 @@
      {
       "name": "Terry McLaurin",
       "pos": "WR",
-      "slot": "FLEX",
-      "pts": 0,
+      "slot": "BE",
+      "pts": 3.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 1.0,
+       "recYds": 27.0
+      }
      },
      {
       "name": "Carnell Tate",
       "pos": "WR",
-      "slot": "BE",
-      "pts": 0,
+      "slot": "FLEX",
+      "pts": 19.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 6.0,
+       "recYds": 70.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Joe Burrow",
@@ -226,25 +276,35 @@
       "name": "Parker Washington",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 10.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 64.0
+      }
      },
      {
       "name": "Travis Kelce",
       "pos": "TE",
-      "slot": "BE",
-      "pts": 0,
+      "slot": "FLEX",
+      "pts": 9.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 53.0
+      }
      },
      {
       "name": "Isaiah Likely",
       "pos": "TE",
       "slot": "TE",
-      "pts": 0,
+      "pts": 23.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 6.0,
+       "recYds": 99.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Zach Charbonnet",
@@ -258,7 +318,7 @@
       "name": "Cam Little",
       "pos": "K",
       "slot": "K",
-      "pts": 0,
+      "pts": 10.0,
       "injury": null,
       "stats": {}
      },
@@ -266,37 +326,41 @@
       "name": "Tyler Shough",
       "pos": "QB",
       "slot": "QB",
-      "pts": 0,
+      "pts": 26.96,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 144.0,
+       "passTD": 3.0,
+       "rushYds": 32.0,
+       "rushTD": 1.0
+      }
      },
      {
       "name": "Emmett Johnson",
       "pos": "RB",
       "slot": "BE",
-      "pts": 0,
+      "pts": 4.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 6.0,
+       "rec": 2.0,
+       "recYds": 18.0
+      }
      },
      {
       "name": "Denzel Boston",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 2.5,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 1.0,
+       "recYds": 15.0
+      }
      },
      {
       "name": "Vikings D/ST",
       "pos": "D/ST",
-      "slot": "D/ST",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Keenan Allen",
-      "pos": "WR",
       "slot": "BE",
       "pts": 0,
       "injury": null,
@@ -306,7 +370,17 @@
       "name": "Emanuel Wilson",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 5.2,
+      "injury": null,
+      "stats": {
+       "rushYds": 52.0
+      }
+     },
+     {
+      "name": "Patriots D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 5.0,
       "injury": null,
       "stats": {}
      }
@@ -314,50 +388,71 @@
    }
   },
   {
-   "winner": "UNDECIDED",
+   "winner": "AWAY",
    "home": {
     "teamId": 4,
-    "points": 0.0,
+    "points": 115.5,
     "players": [
      {
       "name": "Christian McCaffrey",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 30.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 64.0,
+       "rushTD": 2.0,
+       "rec": 9.0,
+       "recYds": 53.0,
+       "fumLost": 1.0
+      }
      },
      {
       "name": "James Cook III",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 24.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 95.0,
+       "rushTD": 1.0,
+       "rec": 3.0,
+       "recYds": 58.0
+      }
      },
      {
       "name": "Josh Allen",
       "pos": "QB",
       "slot": "QB",
-      "pts": 0,
+      "pts": 18.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 255.0,
+       "passTD": 2.0,
+       "rushYds": 1.0
+      }
      },
      {
       "name": "Tetairoa McMillan",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 14.6,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 6.0,
+       "recYds": 86.0
+      }
      },
      {
       "name": "Davante Adams",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 6.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 3.0,
+       "recYds": 39.0
+      }
      },
      {
       "name": "Tyler Warren",
@@ -371,22 +466,25 @@
       "name": "Rome Odunze",
       "pos": "WR",
       "slot": "FLEX",
-      "pts": 0,
+      "pts": 6.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 3.0,
+       "recYds": 39.0
+      }
      },
      {
       "name": "Brandon Aubrey",
       "pos": "K",
       "slot": "K",
-      "pts": 0,
+      "pts": 1.0,
       "injury": null,
       "stats": {}
      },
      {
       "name": "Aaron Jones Sr.",
       "pos": "RB",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -403,15 +501,18 @@
       "name": "Makai Lemon",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 4.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 3.0,
+       "recYds": 19.0
+      }
      },
      {
       "name": "Broncos D/ST",
       "pos": "D/ST",
       "slot": "D/ST",
-      "pts": 0,
+      "pts": 11.0,
       "injury": null,
       "stats": {}
      },
@@ -419,17 +520,24 @@
       "name": "Jake Ferguson",
       "pos": "TE",
       "slot": "BE",
-      "pts": 0,
+      "pts": 3.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 2.0,
+       "recYds": 13.0
+      }
      },
      {
       "name": "Caleb Williams",
       "pos": "QB",
       "slot": "BE",
-      "pts": 0,
+      "pts": 16.5,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 305.0,
+       "passTD": 1.0,
+       "rushYds": 3.0
+      }
      },
      {
       "name": "Isiah Pacheco",
@@ -451,44 +559,71 @@
       "name": "Mark Andrews",
       "pos": "TE",
       "slot": "BE",
-      "pts": 0,
+      "pts": 1.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 1.0,
+       "recYds": 4.0
+      }
+     },
+     {
+      "name": "Tyjae Spears",
+      "pos": "RB",
+      "slot": "FLEX",
+      "pts": 1.8,
+      "injury": null,
+      "stats": {
+       "rushYds": 1.0,
+       "rec": 1.0,
+       "recYds": 7.0
+      }
      }
     ]
    },
    "away": {
     "teamId": 5,
-    "points": 0.0,
+    "points": 147.02,
     "players": [
      {
       "name": "Brock Bowers",
       "pos": "TE",
       "slot": "TE",
-      "pts": 0,
+      "pts": 11.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 70.0
+      }
      },
      {
       "name": "Derrick Henry",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 5.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 58.0,
+       "rec": 1.0,
+       "recYds": 2.0,
+       "fumLost": 1.0
+      }
      },
      {
       "name": "Zay Flowers",
       "pos": "WR",
-      "slot": "FLEX",
-      "pts": 0,
+      "slot": "WR",
+      "pts": 12.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 1.0,
+       "rec": 6.0,
+       "recYds": 66.0
+      }
      },
      {
       "name": "Breece Hall",
       "pos": "RB",
-      "slot": "BE",
+      "slot": "IR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -496,50 +631,72 @@
      {
       "name": "D'Andre Swift",
       "pos": "RB",
-      "slot": "BE",
-      "pts": 0,
+      "slot": "RB",
+      "pts": 23.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 44.0,
+       "rushTD": 2.0,
+       "rec": 4.0,
+       "recYds": 26.0
+      }
      },
      {
       "name": "Justin Herbert",
       "pos": "QB",
-      "slot": "QB",
-      "pts": 0,
+      "slot": "BE",
+      "pts": 8.76,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 204.0,
+       "int": 1.0,
+       "rushYds": 26.0
+      }
      },
      {
       "name": "Marvin Harrison Jr.",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 6.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 3.0,
+       "recYds": 34.0
+      }
      },
      {
       "name": "Luther Burden III",
       "pos": "WR",
       "slot": "FLEX",
-      "pts": 0,
+      "pts": 17.5,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 8.0,
+       "recYds": 95.0
+      }
      },
      {
       "name": "DK Metcalf",
       "pos": "WR",
-      "slot": "WR",
-      "pts": 0,
+      "slot": "BE",
+      "pts": 20.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 11.0,
+       "recYds": 93.0
+      }
      },
      {
       "name": "Matthew Golden",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 22.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 6.0,
+       "recYds": 104.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Jordan Mason",
@@ -553,7 +710,7 @@
       "name": "Ravens D/ST",
       "pos": "D/ST",
       "slot": "D/ST",
-      "pts": 0,
+      "pts": 10.0,
       "injury": null,
       "stats": {}
      },
@@ -561,7 +718,7 @@
       "name": "Chris Boswell",
       "pos": "K",
       "slot": "K",
-      "pts": 0,
+      "pts": 17.0,
       "injury": null,
       "stats": {}
      },
@@ -569,9 +726,12 @@
       "name": "Michael Mayer",
       "pos": "TE",
       "slot": "BE",
-      "pts": 0,
+      "pts": 16.5,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 7.0,
+       "recYds": 95.0
+      }
      },
      {
       "name": "T.J. Hockenson",
@@ -584,48 +744,79 @@
      {
       "name": "Alvin Kamara",
       "pos": "RB",
-      "slot": "RB",
-      "pts": 0,
+      "slot": "BE",
+      "pts": 14.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 34.0,
+       "rec": 2.0,
+       "recYds": 35.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Braelon Allen",
       "pos": "RB",
-      "slot": "BE",
-      "pts": 0,
+      "slot": "FLEX",
+      "pts": 12.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 78.0,
+       "rec": 2.0,
+       "recYds": 26.0
+      }
      },
      {
       "name": "Wan'Dale Robinson",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 5.2,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 3.0,
+       "recYds": 22.0
+      }
+     },
+     {
+      "name": "Aaron Rodgers",
+      "pos": "QB",
+      "slot": "QB",
+      "pts": 16.02,
+      "injury": null,
+      "stats": {
+       "passYds": 253.0,
+       "passTD": 2.0,
+       "int": 1.0,
+       "rushYds": -1.0
+      }
      }
     ]
    }
   },
   {
-   "winner": "UNDECIDED",
+   "winner": "HOME",
    "home": {
     "teamId": 6,
-    "points": 0.0,
+    "points": 133.08,
     "players": [
      {
       "name": "Jonathan Taylor",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 21.1,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 94.0,
+       "rushTD": 1.0,
+       "rec": 2.0,
+       "recYds": 57.0,
+       "fumLost": 1.0
+      }
      },
      {
       "name": "Rashee Rice",
       "pos": "WR",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -634,23 +825,30 @@
       "name": "Ladd McConkey",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 2.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 1.0,
+       "recYds": 17.0
+      }
      },
      {
       "name": "George Kittle",
       "pos": "TE",
       "slot": "TE",
-      "pts": 0,
+      "pts": 17.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 5.0,
+       "recYds": 69.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Rams D/ST",
       "pos": "D/ST",
       "slot": "D/ST",
-      "pts": 0,
+      "pts": 2.0,
       "injury": null,
       "stats": {}
      },
@@ -658,23 +856,31 @@
       "name": "Patrick Mahomes",
       "pos": "QB",
       "slot": "QB",
-      "pts": 0,
+      "pts": 10.48,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 272.0,
+       "int": 1.0,
+       "rushYds": 16.0
+      }
      },
      {
       "name": "Josh Downs",
       "pos": "WR",
-      "slot": "FLEX",
-      "pts": 0,
+      "slot": "BE",
+      "pts": 8.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 7.0,
+       "rec": 4.0,
+       "recYds": 40.0
+      }
      },
      {
       "name": "Spencer Shrader",
       "pos": "K",
       "slot": "K",
-      "pts": 0,
+      "pts": 9.0,
       "injury": null,
       "stats": {}
      },
@@ -682,9 +888,13 @@
       "name": "KC Concepcion",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 7.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 2.0,
+       "rec": 4.0,
+       "recYds": 37.0
+      }
      },
      {
       "name": "James Conner",
@@ -695,20 +905,17 @@
       "stats": {}
      },
      {
-      "name": "Jamaal Williams",
-      "pos": "RB",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "Javonte Williams",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 13.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 41.0,
+       "rushTD": 1.0,
+       "rec": 2.0,
+       "recYds": 9.0
+      }
      },
      {
       "name": "Jordyn Tyson",
@@ -722,17 +929,23 @@
       "name": "George Pickens",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 13.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 6.0,
+       "recYds": 73.0
+      }
      },
      {
       "name": "Jaxon Smith-Njigba",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 25.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 12.0,
+       "recYds": 134.0
+      }
      },
      {
       "name": "Jacory Croskey-Merritt",
@@ -746,47 +959,75 @@
       "name": "Brenton Strange",
       "pos": "TE",
       "slot": "BE",
-      "pts": 0,
+      "pts": 9.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 5.0,
+       "recYds": 44.0
+      }
      },
      {
       "name": "Kendrick Bourne",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 9.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 5.0,
+       "recYds": 47.0
+      }
      },
      {
-      "name": "Aaron Rodgers",
-      "pos": "QB",
-      "slot": "BE",
-      "pts": 0,
+      "name": "Keenan Allen",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 16.2,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 8.0,
+       "recYds": 82.0
+      }
+     },
+     {
+      "name": "Cyrus Allen",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 4.7,
+      "injury": null,
+      "stats": {
+       "rec": 2.0,
+       "recYds": 27.0
+      }
      }
     ]
    },
    "away": {
     "teamId": 10,
-    "points": 0.0,
+    "points": 99.16,
     "players": [
      {
       "name": "Bijan Robinson",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 7.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 61.0,
+       "rec": 2.0,
+       "recYds": -8.0
+      }
      },
      {
       "name": "Omarion Hampton",
       "pos": "RB",
       "slot": "FLEX",
-      "pts": 0,
+      "pts": 7.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 18.0,
+       "rec": 4.0,
+       "recYds": 21.0
+      }
      },
      {
       "name": "Tee Higgins",
@@ -800,47 +1041,65 @@
       "name": "Jaylen Waddle",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 6.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 24.0
+      }
      },
      {
       "name": "Dallas Goedert",
       "pos": "TE",
       "slot": "TE",
-      "pts": 0,
+      "pts": 12.1,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 6.0,
+       "recYds": 61.0
+      }
      },
      {
       "name": "J.K. Dobbins",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 13.6,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 41.0,
+       "rushTD": 1.0,
+       "rec": 3.0,
+       "recYds": 5.0
+      }
      },
      {
       "name": "Dalton Kincaid",
       "pos": "TE",
       "slot": "FLEX",
-      "pts": 0,
+      "pts": 10.8,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 7.0,
+       "recYds": 38.0
+      }
      },
      {
       "name": "Brock Purdy",
       "pos": "QB",
       "slot": "QB",
-      "pts": 0,
+      "pts": 17.36,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 264.0,
+       "passTD": 1.0,
+       "rushYds": 28.0
+      }
      },
      {
       "name": "Eddy Pineiro",
       "pos": "K",
       "slot": "BE",
-      "pts": 0,
+      "pts": 5.0,
       "injury": null,
       "stats": {}
      },
@@ -848,7 +1107,7 @@
       "name": "49ers D/ST",
       "pos": "D/ST",
       "slot": "D/ST",
-      "pts": 0,
+      "pts": 5.0,
       "injury": null,
       "stats": {}
      },
@@ -856,15 +1115,18 @@
       "name": "Bo Nix",
       "pos": "QB",
       "slot": "BE",
-      "pts": 0,
+      "pts": 4.48,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 107.0,
+       "rushYds": 2.0
+      }
      },
      {
       "name": "Tyler Loop",
       "pos": "K",
       "slot": "K",
-      "pts": 0,
+      "pts": 3.0,
       "injury": null,
       "stats": {}
      },
@@ -872,17 +1134,23 @@
       "name": "Jalen Coker",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 15.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 6.0,
+       "recYds": 97.0
+      }
      },
      {
       "name": "Kalif Raymond",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 3.8,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 2.0,
+       "recYds": 18.0
+      }
      },
      {
       "name": "Malik Washington",
@@ -896,7 +1164,7 @@
       "name": "Browns D/ST",
       "pos": "D/ST",
       "slot": "BE",
-      "pts": 0,
+      "pts": 10.0,
       "injury": null,
       "stats": {}
      },
@@ -904,18 +1172,22 @@
       "name": "Brian Robinson Jr.",
       "pos": "RB",
       "slot": "BE",
-      "pts": 0,
+      "pts": 3.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 1.0,
+       "rec": 2.0,
+       "recYds": 9.0
+      }
      }
     ]
    }
   },
   {
-   "winner": "UNDECIDED",
+   "winner": "AWAY",
    "home": {
     "teamId": 7,
-    "points": 0.0,
+    "points": 108.5,
     "players": [
      {
       "name": "Justin Jefferson",
@@ -929,41 +1201,58 @@
       "name": "Chris Olave",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 14.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 43.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Emeka Egbuka",
       "pos": "WR",
       "slot": "FLEX",
-      "pts": 0,
+      "pts": 17.8,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 7.0,
+       "recYds": 48.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Rhamondre Stevenson",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 3.6,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 36.0
+      }
      },
      {
       "name": "Drake Maye",
       "pos": "QB",
       "slot": "QB",
-      "pts": 0,
+      "pts": 23.8,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 235.0,
+       "passTD": 3.0,
+       "rushYds": 24.0
+      }
      },
      {
       "name": "Christian Watson",
       "pos": "WR",
       "slot": "FLEX",
-      "pts": 0,
+      "pts": 9.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 3.0,
+       "recYds": 64.0
+      }
      },
      {
       "name": "Sam LaPorta",
@@ -985,7 +1274,7 @@
       "name": "Seahawks D/ST",
       "pos": "D/ST",
       "slot": "BE",
-      "pts": 0,
+      "pts": 6.0,
       "injury": null,
       "stats": {}
      },
@@ -993,7 +1282,7 @@
       "name": "Jason Myers",
       "pos": "K",
       "slot": "K",
-      "pts": 0,
+      "pts": 7.0,
       "injury": null,
       "stats": {}
      },
@@ -1001,55 +1290,77 @@
       "name": "Khalil Shakir",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 13.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 34.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Hunter Henry",
       "pos": "TE",
       "slot": "TE",
-      "pts": 0,
+      "pts": 14.8,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 48.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Bryce Young",
       "pos": "QB",
       "slot": "BE",
-      "pts": 0,
+      "pts": 19.84,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 281.0,
+       "passTD": 2.0,
+       "rushYds": 6.0
+      }
      },
      {
       "name": "Tony Pollard",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 7.6,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 76.0
+      }
      },
      {
       "name": "Drake London",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 12.2,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 62.0
+      }
      },
      {
       "name": "TreVeyon Henderson",
       "pos": "RB",
       "slot": "BE",
-      "pts": 0,
+      "pts": 3.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 31.0,
+       "rec": 1.0,
+       "recYds": 9.0,
+       "fumLost": 1.0
+      }
      },
      {
       "name": "Jaguars D/ST",
       "pos": "D/ST",
       "slot": "D/ST",
-      "pts": 0,
+      "pts": -2.0,
       "injury": null,
       "stats": {}
      }
@@ -1057,7 +1368,7 @@
    },
    "away": {
     "teamId": 8,
-    "points": 0.0,
+    "points": 121.4,
     "players": [
      {
       "name": "Amon-Ra St. Brown",
@@ -1071,14 +1382,17 @@
       "name": "CeeDee Lamb",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 16.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 9.0,
+       "recYds": 70.0
+      }
      },
      {
       "name": "Jeremiyah Love",
       "pos": "RB",
-      "slot": "FLEX",
+      "slot": "IR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1087,9 +1401,13 @@
       "name": "Kyren Williams",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 9.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 50.0,
+       "rec": 3.0,
+       "recYds": 17.0
+      }
      },
      {
       "name": "Jameson Williams",
@@ -1102,7 +1420,7 @@
      {
       "name": "Quinshon Judkins",
       "pos": "RB",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1110,7 +1428,7 @@
      {
       "name": "Jalen Hurts",
       "pos": "QB",
-      "slot": "BE",
+      "slot": "IR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1119,9 +1437,12 @@
       "name": "Harold Fannin Jr.",
       "pos": "TE",
       "slot": "TE",
-      "pts": 0,
+      "pts": 1.9,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 1.0,
+       "recYds": 9.0
+      }
      },
      {
       "name": "Josh Jacobs",
@@ -1143,33 +1464,50 @@
       "name": "Trevor Lawrence",
       "pos": "QB",
       "slot": "BE",
-      "pts": 0,
+      "pts": 27.34,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 306.0,
+       "passTD": 4.0,
+       "int": 1.0,
+       "rushYds": 11.0
+      }
      },
      {
       "name": "Chuba Hubbard",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 19.1,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 120.0,
+       "rushTD": 1.0,
+       "rec": 1.0,
+       "recYds": 1.0
+      }
      },
      {
       "name": "Jayden Daniels",
       "pos": "QB",
       "slot": "QB",
-      "pts": 0,
+      "pts": 21.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 300.0,
+       "passTD": 2.0,
+       "rushYds": 10.0
+      }
      },
      {
       "name": "Devaughn Vele",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 7.2,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 3.0,
+       "recYds": 42.0
+      }
      },
      {
       "name": "Will Reichard",
@@ -1183,7 +1521,7 @@
       "name": "Dominic Zvada",
       "pos": "K",
       "slot": "K",
-      "pts": 0,
+      "pts": 8.0,
       "injury": null,
       "stats": {}
      },
@@ -1191,31 +1529,61 @@
       "name": "Chiefs D/ST",
       "pos": "D/ST",
       "slot": "D/ST",
-      "pts": 0,
+      "pts": 14.0,
       "injury": null,
       "stats": {}
+     },
+     {
+      "name": "Dameon Pierce",
+      "pos": "RB",
+      "slot": "FLEX",
+      "pts": 15.0,
+      "injury": null,
+      "stats": {
+       "rushYds": 35.0,
+       "rushTD": 1.0,
+       "rec": 4.0,
+       "recYds": 15.0
+      }
+     },
+     {
+      "name": "Jaleel McLaughlin",
+      "pos": "RB",
+      "slot": "FLEX",
+      "pts": 9.5,
+      "injury": null,
+      "stats": {
+       "rushYds": 41.0,
+       "rec": 4.0,
+       "recYds": 14.0
+      }
      }
     ]
    }
   },
   {
-   "winner": "UNDECIDED",
+   "winner": "HOME",
    "home": {
     "teamId": 9,
-    "points": 0.0,
+    "points": 153.84,
     "players": [
      {
       "name": "Ashton Jeanty",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 15.8,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 22.0,
+       "rushTD": 1.0,
+       "rec": 4.0,
+       "recYds": 36.0
+      }
      },
      {
       "name": "David Montgomery",
       "pos": "RB",
-      "slot": "BE",
+      "slot": "IR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1224,41 +1592,56 @@
       "name": "Bhayshul Tuten",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 24.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 39.0,
+       "rec": 4.0,
+       "recYds": 48.0,
+       "recTD": 2.0
+      }
      },
      {
       "name": "Tucker Kraft",
       "pos": "TE",
       "slot": "FLEX",
-      "pts": 0,
+      "pts": 8.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 5.0,
+       "recYds": 37.0
+      }
      },
      {
       "name": "Stefon Diggs",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 16.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 6.0,
+       "recYds": 44.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Steelers D/ST",
       "pos": "D/ST",
       "slot": "D/ST",
-      "pts": 0,
+      "pts": 11.0,
       "injury": null,
       "stats": {}
      },
      {
       "name": "Mike Evans",
       "pos": "WR",
-      "slot": "WR",
-      "pts": 0,
+      "slot": "FLEX",
+      "pts": 12.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 3.0,
+       "recYds": 94.0
+      }
      },
      {
       "name": "Jaxson Dart",
@@ -1279,7 +1662,7 @@
      {
       "name": "Evan McPherson",
       "pos": "K",
-      "slot": "K",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1287,7 +1670,7 @@
      {
       "name": "Jared Goff",
       "pos": "QB",
-      "slot": "QB",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1301,71 +1684,107 @@
       "stats": {}
      },
      {
-      "name": "Dohnte Meyers",
-      "pos": "WR",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "DeVonta Smith",
       "pos": "WR",
-      "slot": "FLEX",
-      "pts": 0,
+      "slot": "WR",
+      "pts": 20.5,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 7.0,
+       "recYds": 75.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Malik Nabers",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 28.5,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 12.0,
+       "recYds": 165.0
+      }
      },
      {
       "name": "Jordan Love",
       "pos": "QB",
-      "slot": "BE",
-      "pts": 0,
+      "slot": "QB",
+      "pts": 20.24,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 276.0,
+       "passTD": 1.0,
+       "int": 1.0,
+       "rushYds": 12.0,
+       "rushTD": 1.0
+      }
      },
      {
       "name": "Tre Tucker",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 26.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 5.0,
+       "recYds": 97.0,
+       "recTD": 2.0
+      }
      },
      {
       "name": "Germie Bernard",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 25.7,
+      "injury": null,
+      "stats": {
+       "rec": 11.0,
+       "recYds": 87.0,
+       "recTD": 1.0
+      }
+     },
+     {
+      "name": "Matt Gay",
+      "pos": "K",
+      "slot": "K",
+      "pts": 12.0,
       "injury": null,
       "stats": {}
+     },
+     {
+      "name": "Tyler Allgeier",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 5.8,
+      "injury": null,
+      "stats": {
+       "rushYds": 38.0,
+       "rec": 1.0,
+       "recYds": 10.0
+      }
      }
     ]
    },
    "away": {
     "teamId": 2,
-    "points": 0.0,
+    "points": 110.32,
     "players": [
      {
       "name": "Puka Nacua",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 14.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 6.0,
+       "recYds": 80.0
+      }
      },
      {
       "name": "Saquon Barkley",
       "pos": "RB",
-      "slot": "RB",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1374,25 +1793,35 @@
       "name": "Trey McBride",
       "pos": "TE",
       "slot": "TE",
-      "pts": 0,
+      "pts": 12.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 7.0,
+       "recYds": 53.0
+      }
      },
      {
       "name": "Colston Loveland",
       "pos": "TE",
       "slot": "BE",
-      "pts": 0,
+      "pts": 18.5,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 6.0,
+       "recYds": 65.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Garrett Wilson",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
+      "pts": 8.4,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 4.0,
+       "recYds": 44.0
+      }
      },
      {
       "name": "DJ Moore",
@@ -1406,9 +1835,13 @@
       "name": "Jaylen Warren",
       "pos": "RB",
       "slot": "RB",
-      "pts": 0,
+      "pts": 9.8,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 50.0,
+       "rec": 2.0,
+       "recYds": 28.0
+      }
      },
      {
       "name": "Michael Pittman Jr.",
@@ -1422,61 +1855,78 @@
       "name": "Dak Prescott",
       "pos": "QB",
       "slot": "QB",
-      "pts": 0,
+      "pts": 11.02,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "passYds": 258.0,
+       "passTD": 1.0,
+       "int": 2.0,
+       "rushYds": 7.0
+      }
      },
      {
       "name": "Jakobi Meyers",
       "pos": "WR",
-      "slot": "FLEX",
-      "pts": 0,
+      "slot": "BE",
+      "pts": 13.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 5.0,
+       "recYds": 83.0
+      }
      },
      {
       "name": "Blake Corum",
       "pos": "RB",
-      "slot": "FLEX",
-      "pts": 0,
+      "slot": "RB",
+      "pts": 14.0,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 42.0,
+       "rec": 2.0,
+       "recYds": 18.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Rachaad White",
       "pos": "RB",
-      "slot": "BE",
-      "pts": 0,
+      "slot": "FLEX",
+      "pts": 15.7,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 27.0,
+       "rec": 4.0,
+       "recYds": 30.0,
+       "recTD": 1.0
+      }
      },
      {
       "name": "Xavier Worthy",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
+      "pts": 14.3,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rec": 7.0,
+       "recYds": 73.0
+      }
      },
      {
       "name": "Woody Marks",
       "pos": "RB",
-      "slot": "BE",
-      "pts": 0,
+      "slot": "FLEX",
+      "pts": 10.1,
       "injury": null,
-      "stats": {}
+      "stats": {
+       "rushYds": 56.0,
+       "rec": 2.0,
+       "recYds": 25.0
+      }
      },
      {
       "name": "Jake Bates",
       "pos": "K",
-      "slot": "K",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Kenyon Sadiq",
-      "pos": "TE",
       "slot": "BE",
       "pts": 0,
       "injury": null,
@@ -1491,20 +1941,32 @@
       "stats": {}
      },
      {
-      "name": "Jalon Daniels",
-      "pos": "QB",
-      "slot": "BE",
-      "pts": 0,
+      "name": "Jets D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 3.0,
       "injury": null,
       "stats": {}
      },
      {
-      "name": "Jets D/ST",
-      "pos": "D/ST",
-      "slot": "D/ST",
-      "pts": 0,
+      "name": "Harrison Butker",
+      "pos": "K",
+      "slot": "K",
+      "pts": 12.0,
       "injury": null,
       "stats": {}
+     },
+     {
+      "name": "Rico Dowdle",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 7.9,
+      "injury": null,
+      "stats": {
+       "rushYds": 40.0,
+       "rec": 3.0,
+       "recYds": 9.0
+      }
      }
     ]
    }
