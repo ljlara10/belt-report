@@ -185,15 +185,7 @@
      {
       "name": "Michael Wilson",
       "pos": "WR",
-      "slot": "FLEX",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "RJ Harvey",
-      "pos": "RB",
-      "slot": "BE",
+      "slot": "WR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -241,7 +233,7 @@
      {
       "name": "Omar Cooper Jr.",
       "pos": "WR",
-      "slot": "WR",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -282,6 +274,22 @@
       "name": "Luther Burden III",
       "pos": "WR",
       "slot": "WR",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Mike Washington Jr.",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Gardner Minshew II",
+      "pos": "QB",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -330,7 +338,7 @@
      {
       "name": "Rams D/ST",
       "pos": "D/ST",
-      "slot": "D/ST",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -347,14 +355,6 @@
       "name": "Josh Downs",
       "pos": "WR",
       "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Spencer Shrader",
-      "pos": "K",
-      "slot": "K",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -408,25 +408,9 @@
       "stats": {}
      },
      {
-      "name": "C.J. Stroud",
-      "pos": "QB",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "Terrance Ferguson",
       "pos": "TE",
       "slot": "IR",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Brenton Strange",
-      "pos": "TE",
-      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -441,6 +425,30 @@
      },
      {
       "name": "Kirk Cousins",
+      "pos": "QB",
+      "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Tyler Bass",
+      "pos": "K",
+      "slot": "K",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Chiefs D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Jacoby Brissett",
       "pos": "QB",
       "slot": "BE",
       "pts": 0,
@@ -488,7 +496,7 @@
      {
       "name": "Stefon Diggs",
       "pos": "WR",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -496,7 +504,7 @@
      {
       "name": "Steelers D/ST",
       "pos": "D/ST",
-      "slot": "D/ST",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -529,14 +537,6 @@
       "name": "Jared Goff",
       "pos": "QB",
       "slot": "QB",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Juwan Johnson",
-      "pos": "TE",
-      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -584,15 +584,7 @@
      {
       "name": "Tyler Allgeier",
       "pos": "RB",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Darius Cooper",
-      "pos": "WR",
-      "slot": "BE",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -601,6 +593,22 @@
       "name": "Caleb Douglas",
       "pos": "WR",
       "slot": "FLEX",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Bears D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Chris Rodriguez Jr.",
+      "pos": "RB",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1102,7 +1110,7 @@
      {
       "name": "Jeremiyah Love",
       "pos": "RB",
-      "slot": "BE",
+      "slot": "IR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1226,6 +1234,14 @@
       "pts": 0,
       "injury": null,
       "stats": {}
+     },
+     {
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
      }
     ]
    }
@@ -1327,7 +1343,7 @@
      {
       "name": "Aaron Rodgers",
       "pos": "QB",
-      "slot": "QB",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1335,7 +1351,7 @@
      {
       "name": "Sam Darnold",
       "pos": "QB",
-      "slot": "BE",
+      "slot": "QB",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1351,7 +1367,7 @@
      {
       "name": "Keon Coleman",
       "pos": "WR",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1359,15 +1375,7 @@
      {
       "name": "Nico Collins",
       "pos": "WR",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Lamar Jackson",
-      "pos": "QB",
-      "slot": "BE",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
