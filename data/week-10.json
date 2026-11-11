@@ -19,7 +19,7 @@
      {
       "name": "A.J. Brown",
       "pos": "WR",
-      "slot": "WR",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -105,17 +105,9 @@
       "stats": {}
      },
      {
-      "name": "Patriots D/ST",
-      "pos": "D/ST",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "Jordan Mason",
       "pos": "RB",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -129,9 +121,33 @@
       "stats": {}
      },
      {
-      "name": "Mike Washington Jr.",
-      "pos": "RB",
+      "name": "Reggie Virgil",
+      "pos": "WR",
+      "slot": "FLEX",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Carson Beck",
+      "pos": "QB",
       "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Wan'Dale Robinson",
+      "pos": "WR",
+      "slot": "WR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -287,7 +303,7 @@
       "stats": {}
      },
      {
-      "name": "Demarcus Robinson",
+      "name": "Mack Hollins",
       "pos": "WR",
       "slot": "BE",
       "pts": 0,
@@ -649,7 +665,7 @@
      {
       "name": "Quinshon Judkins",
       "pos": "RB",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -703,14 +719,6 @@
       "stats": {}
      },
      {
-      "name": "Devaughn Vele",
-      "pos": "WR",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "Will Reichard",
       "pos": "K",
       "slot": "K",
@@ -729,7 +737,7 @@
      {
       "name": "DeMario Douglas",
       "pos": "WR",
-      "slot": "BE",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -752,6 +760,14 @@
      },
      {
       "name": "Audric Estime",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Corey Kiner",
       "pos": "RB",
       "slot": "BE",
       "pts": 0,
@@ -847,7 +863,7 @@
      {
       "name": "George Pickens",
       "pos": "WR",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -863,7 +879,7 @@
      {
       "name": "Keenan Allen",
       "pos": "WR",
-      "slot": "BE",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -944,7 +960,7 @@
      {
       "name": "Jaylen Waddle",
       "pos": "WR",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1006,25 +1022,9 @@
       "stats": {}
      },
      {
-      "name": "Tyler Loop",
-      "pos": "K",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "Jalen Coker",
       "pos": "WR",
       "slot": "WR",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Kalif Raymond",
-      "pos": "WR",
-      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1038,7 +1038,23 @@
       "stats": {}
      },
      {
-      "name": "Browns D/ST",
+      "name": "Kaelon Black",
+      "pos": "RB",
+      "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Spencer Shrader",
+      "pos": "K",
+      "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Packers D/ST",
       "pos": "D/ST",
       "slot": "BE",
       "pts": 0,
@@ -1046,9 +1062,9 @@
       "stats": {}
      },
      {
-      "name": "Kaelon Black",
-      "pos": "RB",
-      "slot": "BE",
+      "name": "Khalil Shakir",
+      "pos": "WR",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1110,7 +1126,7 @@
      {
       "name": "Rome Odunze",
       "pos": "WR",
-      "slot": "WR",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1134,7 +1150,7 @@
      {
       "name": "Makai Lemon",
       "pos": "WR",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1142,7 +1158,7 @@
      {
       "name": "Broncos D/ST",
       "pos": "D/ST",
-      "slot": "D/ST",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1174,7 +1190,7 @@
      {
       "name": "Tank Dell",
       "pos": "WR",
-      "slot": "BE",
+      "slot": "WR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1196,9 +1212,17 @@
       "stats": {}
      },
      {
-      "name": "Chris Godwin Jr.",
+      "name": "Malachi Fields",
       "pos": "WR",
-      "slot": "BE",
+      "slot": "FLEX",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Ravens D/ST",
+      "pos": "D/ST",
+      "slot": "D/ST",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1309,14 +1333,6 @@
       "stats": {}
      },
      {
-      "name": "Joe Milton",
-      "pos": "QB",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "Dominic Zvada",
       "pos": "K",
       "slot": "K",
@@ -1343,6 +1359,14 @@
      {
       "name": "Dylan Sampson",
       "pos": "RB",
+      "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Fernando Mendoza",
+      "pos": "QB",
       "slot": "BE",
       "pts": 0,
       "injury": null,
@@ -1389,7 +1413,7 @@
      {
       "name": "Cam Skattebo",
       "pos": "RB",
-      "slot": "BE",
+      "slot": "IR",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1397,7 +1421,7 @@
      {
       "name": "Carnell Tate",
       "pos": "WR",
-      "slot": "IR",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1499,8 +1523,8 @@
       "stats": {}
      },
      {
-      "name": "Seth McGowan",
-      "pos": "RB",
+      "name": "Bills D/ST",
+      "pos": "D/ST",
       "slot": "BE",
       "pts": 0,
       "injury": null,
