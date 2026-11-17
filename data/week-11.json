@@ -1365,7 +1365,7 @@
      {
       "name": "Travis Etienne Jr.",
       "pos": "RB",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1373,7 +1373,7 @@
      {
       "name": "Cam Skattebo",
       "pos": "RB",
-      "slot": "BE",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
