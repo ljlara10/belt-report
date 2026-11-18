@@ -193,7 +193,7 @@
      {
       "name": "Kyle Pitts Sr.",
       "pos": "TE",
-      "slot": "TE",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -279,15 +279,15 @@
       "stats": {}
      },
      {
-      "name": "Carson Beck",
-      "pos": "QB",
-      "slot": "BE",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "slot": "TE",
       "pts": 0,
       "injury": null,
       "stats": {}
      },
      {
-      "name": "Konata Mumpfield",
+      "name": "Pat Bryant",
       "pos": "WR",
       "slot": "BE",
       "pts": 0,
@@ -295,7 +295,7 @@
       "stats": {}
      },
      {
-      "name": "Wan'Dale Robinson",
+      "name": "Myles Price",
       "pos": "WR",
       "slot": "BE",
       "pts": 0,
@@ -392,14 +392,6 @@
       "stats": {}
      },
      {
-      "name": "Germie Bernard",
-      "pos": "WR",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
       "name": "Matt Gay",
       "pos": "K",
       "slot": "K",
@@ -451,6 +443,14 @@
       "name": "Jonathan Taylor",
       "pos": "RB",
       "slot": "RB",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "slot": "TE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -512,7 +512,7 @@
      {
       "name": "Harold Fannin Jr.",
       "pos": "TE",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -598,7 +598,7 @@
       "stats": {}
      },
      {
-      "name": "Audric Estime",
+      "name": "Corey Kiner",
       "pos": "RB",
       "slot": "BE",
       "pts": 0,
@@ -606,9 +606,9 @@
       "stats": {}
      },
      {
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "slot": "BE",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1028,6 +1028,22 @@
       "pts": 0,
       "injury": null,
       "stats": {}
+     },
+     {
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "slot": "IR",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
+     },
+     {
+      "name": "Pat Freiermuth",
+      "pos": "TE",
+      "slot": "BE",
+      "pts": 0,
+      "injury": null,
+      "stats": {}
      }
     ]
    },
@@ -1223,7 +1239,7 @@
      {
       "name": "Tyler Warren",
       "pos": "TE",
-      "slot": "TE",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1231,7 +1247,7 @@
      {
       "name": "Rome Odunze",
       "pos": "WR",
-      "slot": "BE",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1247,7 +1263,7 @@
      {
       "name": "Aaron Jones Sr.",
       "pos": "RB",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1263,15 +1279,7 @@
      {
       "name": "Broncos D/ST",
       "pos": "D/ST",
-      "slot": "BE",
-      "pts": 0,
-      "injury": null,
-      "stats": {}
-     },
-     {
-      "name": "Jake Ferguson",
-      "pos": "TE",
-      "slot": "BE",
+      "slot": "D/ST",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1303,7 +1311,7 @@
      {
       "name": "Mark Andrews",
       "pos": "TE",
-      "slot": "BE",
+      "slot": "TE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1319,15 +1327,15 @@
      {
       "name": "Malachi Fields",
       "pos": "WR",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
      },
      {
-      "name": "Ravens D/ST",
-      "pos": "D/ST",
-      "slot": "D/ST",
+      "name": "Courtland Sutton",
+      "pos": "WR",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1357,7 +1365,7 @@
      {
       "name": "Kenneth Walker III",
       "pos": "RB",
-      "slot": "RB",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1437,7 +1445,7 @@
      {
       "name": "Emmett Johnson",
       "pos": "RB",
-      "slot": "BE",
+      "slot": "RB",
       "pts": 0,
       "injury": null,
       "stats": {}
