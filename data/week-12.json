@@ -27,7 +27,7 @@
      {
       "name": "Kyle Pitts Sr.",
       "pos": "TE",
-      "slot": "BE",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -51,7 +51,7 @@
      {
       "name": "Matthew Stafford",
       "pos": "QB",
-      "slot": "BE",
+      "slot": "QB",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -75,7 +75,7 @@
      {
       "name": "Alvin Kamara",
       "pos": "RB",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -115,7 +115,7 @@
      {
       "name": "Tyler Shough",
       "pos": "QB",
-      "slot": "QB",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -936,7 +936,7 @@
      {
       "name": "Carnell Tate",
       "pos": "WR",
-      "slot": "FLEX",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1000,7 +1000,7 @@
      {
       "name": "Denzel Boston",
       "pos": "WR",
-      "slot": "BE",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1349,7 +1349,7 @@
      {
       "name": "Rashee Rice",
       "pos": "WR",
-      "slot": "WR",
+      "slot": "BE",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1413,7 +1413,7 @@
      {
       "name": "Antonio Williams",
       "pos": "WR",
-      "slot": "BE",
+      "slot": "FLEX",
       "pts": 0,
       "injury": null,
       "stats": {}
@@ -1445,7 +1445,7 @@
      {
       "name": "Stefon Diggs",
       "pos": "WR",
-      "slot": "FLEX",
+      "slot": "WR",
       "pts": 0,
       "injury": null,
       "stats": {}
